@@ -6,3 +6,5 @@ authors = ["Vincent Kobel <vincent@klaat.com>"]
 [lib]
 crate-type = ["staticlib"]
 
+[dependencies]
+rlibc = "0.1.4"
