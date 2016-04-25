@@ -1,0 +1,8 @@
+[package]
+name = "mini_rust_os"
+version = "0.0.1"
+authors = ["Vincent Kobel <vincent@klaat.com>"]
+
+[lib]
+crate-type = ["staticlib"]
+
